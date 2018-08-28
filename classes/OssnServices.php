@@ -100,7 +100,7 @@ class OssnServices {
 				$this->displayResponse(array(
 						'code' => '100',
 						'message' => ossn_print('ossnservices:success'),
-						'paypload' => $payload
+						'payload' => $payload
 				));
 		}
 		/**
