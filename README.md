@@ -27,7 +27,7 @@ Below is the sample response from the API
     "payload": false,
     "code": "100",
     "message": "Request successfully executed",
-    "paypload": {
+    "payload": {
         "first_name": "System",
         "last_name": "Administrator",
         "email": "someuser@localhost.com",
